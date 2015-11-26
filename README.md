@@ -9,7 +9,7 @@ This is faster than working with Ruby's built in support for using `Date`s with 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'date_range'
+gem 'date-range', require: 'date_range'
 ```
 
 And then execute:
@@ -18,7 +18,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install date_range
+    $ gem install date-range
 
 ## Usage
 

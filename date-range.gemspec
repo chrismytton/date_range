@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require 'date_range/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = 'date_range'
+  spec.name          = 'date-range'
   spec.version       = DateRange::VERSION
   spec.authors       = ['Chris Mytton']
   spec.email         = ['chrismytton@gmail.com']
