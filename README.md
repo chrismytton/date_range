@@ -35,7 +35,7 @@ if range.include?(range2)
   # ...
 end
 
-if range.overlaps(range2)
+if range.overlaps?(range2)
   range3 = range.overlap(range2)
 end
 ```
