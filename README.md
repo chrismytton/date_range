@@ -48,7 +48,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/chrismytton/date_range.
+Bug reports and pull requests are welcome on GitHub at https://github.com/everypolitician/date_range.
 
 
 ## License
