@@ -6,11 +6,11 @@ require 'date_range/version'
 Gem::Specification.new do |spec|
   spec.name          = 'date-range'
   spec.version       = DateRange::VERSION
-  spec.authors       = ['Chris Mytton']
-  spec.email         = ['chrismytton@gmail.com']
+  spec.authors       = ['EveryPolitician']
+  spec.email         = ['team@everypolitician.org']
 
   spec.summary       = "Ruby port of Perl's Date::Range"
-  spec.homepage      = 'https://github.com/chrismytton/date_range'
+  spec.homepage      = 'https://github.com/everypolitician/date_range'
   spec.license       = 'MIT'
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
